@@ -40,8 +40,11 @@ The program reads truss data for elements FA, FB, and applied forces LA, LB from
    
    Example output:
    - **AC**: \(F_x = 12 \, kN\), \(F_y = 5 \, kN\)
+
 #### Truss Structure
 ![Truss Structure](https://github.com/Abyaneh/Truss-Structure-Analysis-Project/blob/main/truss-structure-image.jpg)
+
+##### You can see more detail [in question pdf](https://github.com/Abyaneh/Truss-Structure-Analysis-Project/blob/main/Question.pdf)
 
 [Back to Top](#table-of-contents)
 ## Input Files
