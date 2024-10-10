@@ -55,3 +55,19 @@ The solution.pdf file contains a manual calculation example for validating the p
 2. Compile the C++ code:
    ```bash
    g++ Final_Project.cpp -o truss_analysis
+    ```
+## Contributing
+Contributions are welcome! To contribute:
+1. Fork this repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit (`git commit -m 'Add a new feature'`).
+4. Push to your branch (`git push origin feature-branch`).
+5. Open a pull request for review.
+
+[Back to Top](#table-of-contents)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Abyaneh/rotten_and_fresh/blob/main/LICENSE) file for details.
+
+[Back to Top](#table-of-contents)
+
