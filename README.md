@@ -55,7 +55,7 @@ The program reads from two input files:
 
 [Back to Top](#table-of-contents)
 ## Solution PDF
-The solution.pdf file contains a manual calculation example for validating the program's results.
+The [solution.pdf](https://github.com/Abyaneh/Truss-Structure-Analysis-Project/blob/main/solution.pdf) file contains a manual calculation example for validating the program's results.
 
 [Back to Top](#table-of-contents)
 ## How to Run the Project
