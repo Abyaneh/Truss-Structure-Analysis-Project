@@ -41,6 +41,8 @@ The program reads truss data for elements FA, FB, and applied forces LA, LB from
    Example output:
    - **AC**: \(F_x = 12 \, kN\), \(F_y = 5 \, kN\)
 
+![Model3](https://github.com/Abyaneh/Neural_Network_projects/blob/main/Photos/Epoch-Accuracy_and_Epoch_Loss_Chart_project3_10epochs_model3.png)
+
 [Back to Top](#table-of-contents)
 ## Input Files
 The program reads from two input files:
