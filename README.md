@@ -9,7 +9,6 @@
 - [Technologies & Tools Used](#technologies--tools-used)
 - [Solution PDF](#solution-pdf)
 - [How to Run the Project](#how-to-run-the-project)
-- [Team Members](#team-members)
 - [Contributing](#contributing)
 - [License](#license)
 
