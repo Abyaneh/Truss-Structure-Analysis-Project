@@ -46,6 +46,7 @@ The program reads truss data for elements FA, FB, and applied forces LA, LB from
 The program reads from two input files:
 1. **Forces.txt**: Contains force data (FA, FB).
 2. **Lengths.txt**: Contains length data (LA, LB).
+#### Both of them are in [this file](https://github.com/Abyaneh/Truss-Structure-Analysis-Project/blob/main/input.txt)
 
 [Back to Top](#table-of-contents)
 ## Technologies & Tools Used
