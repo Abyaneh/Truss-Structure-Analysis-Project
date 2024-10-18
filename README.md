@@ -69,8 +69,6 @@ The [solution.pdf](https://github.com/Abyaneh/Truss-Structure-Analysis-Project/b
    g++ Final_Project.cpp -o truss_analysis
     ```
 3. Run the Compiled Program:
-   ```bash
-   g++ Final_Project.cpp -o truss_analysis
     ```bash
    ./truss_analysis
    ```
