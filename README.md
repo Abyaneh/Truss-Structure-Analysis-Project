@@ -57,7 +57,7 @@ The [Manual Calculation.pdf](https://github.com/Abyaneh/Truss-Structure-Analysis
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abyaneh/Smart_Hospital/blob/main/README.md#how-to-run-the-project
+   git clone https://github.com/Abyaneh/Truss-Structure-Analysis-Project/tree/main
    ```
 2. Compile the C++ code:
    ```bash
