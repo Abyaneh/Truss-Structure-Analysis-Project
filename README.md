@@ -6,7 +6,6 @@
 - [Project Structure](#project-structure)
 - [Force Calculation Algorithm](#force-calculation-algorithm)
 - [Input Files](#input-files)
-- [Technologies & Tools Used](#technologies--tools-used)
 - [Solution PDF](#solution-pdf)
 - [How to Run the Project](#how-to-run-the-project)
 - [Contributing](#contributing)
@@ -43,19 +42,16 @@ The program reads truss data for elements FA, FB, and applied forces LA, LB from
 #### Truss Structure
 ![Truss Structure](https://github.com/Abyaneh/Truss-Structure-Analysis-Project/blob/main/truss-structure-image.jpg)
 
-##### You can see more detail [in question pdf](https://github.com/Abyaneh/Truss-Structure-Analysis-Project/blob/main/Question.pdf)
+##### You can see more detail in [Question pdf](https://github.com/Abyaneh/Truss-Structure-Analysis-Project/blob/main/Question.pdf)
 
 [Back to Top](#table-of-contents)
 ## Input Files
+
+The program reads from an input file ([input.txt](https://github.com/Abyaneh/Truss-Structure-Analysis-Project/blob/main/input.txt)) that contains force data (FA, FB) and length data (LA, LB).
 The program reads from two input files:
 1. **Forces.txt**: Contains force data (FA, FB).
 2. **Lengths.txt**: Contains length data (LA, LB).
 #### Both of them are in [this file](https://github.com/Abyaneh/Truss-Structure-Analysis-Project/blob/main/input.txt)
-
-[Back to Top](#table-of-contents)
-## Technologies & Tools Used
-- C++ for force calculation logic.
-- PDF for solution comparison.
 
 [Back to Top](#table-of-contents)
 ## Solution PDF
