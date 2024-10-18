@@ -135,7 +135,7 @@ void truss::display(){
 // function to compute and write the results in a file
 void compute(int case_num, double LA, double LB, double FA, double FB){
     ofstream outFile;
-    string filename = to_string(case_num) + ".txt"; // create the output file name with the case number
+    string filename = "Outputs/" + to_string(case_num) + ".txt"; // create the output file name with the case number
     outFile.open(filename);
 
     if (!outFile) {
