@@ -48,14 +48,10 @@ The program reads truss data for elements FA, FB, and applied forces LA, LB from
 ## Input Files
 
 The program reads from an input file ([input.txt](https://github.com/Abyaneh/Truss-Structure-Analysis-Project/blob/main/input.txt)) that contains force data (FA, FB) and length data (LA, LB).
-The program reads from two input files:
-1. **Forces.txt**: Contains force data (FA, FB).
-2. **Lengths.txt**: Contains length data (LA, LB).
-#### Both of them are in [this file](https://github.com/Abyaneh/Truss-Structure-Analysis-Project/blob/main/input.txt)
 
 [Back to Top](#table-of-contents)
 ## Solution PDF
-The [solution.pdf](https://github.com/Abyaneh/Truss-Structure-Analysis-Project/blob/main/solution.pdf) file contains a manual calculation example for validating the program's results.
+The [Manual Calculation.pdf](https://github.com/Abyaneh/Truss-Structure-Analysis-Project/blob/main/solution.pdf) file contains a manual calculation example for validating the program's results.
 
 [Back to Top](#table-of-contents)
 ## How to Run the Project
