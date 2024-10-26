@@ -49,6 +49,7 @@ $$
 $$
 F_{\text{y}}: force acting on the object along the y
 $$   
+
    Example output:
    - **AC**: \(F_x = 12 \, kN\), \(F_y = 5 \, kN\)
 
