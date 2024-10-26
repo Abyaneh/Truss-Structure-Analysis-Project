@@ -39,7 +39,8 @@ $$
 In this formula:
 
 $$
-\( F_{\text{max}} \) is the maximum force.
+F_{\text{max}} $$ is the maximum force.
+
 \( F_x \) and \( F_y \) are the forces acting on the object along the x and y axes, respectively.
 $$   
    Example output:
