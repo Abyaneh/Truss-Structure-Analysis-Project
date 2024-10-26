@@ -39,7 +39,7 @@ $$
 In this formula:
 
 $$
-F_{\text{max}}: maximum force.
+F_{\text{max}}: maximum_force.
 $$
 
 $$
