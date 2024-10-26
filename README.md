@@ -32,9 +32,13 @@ The program reads truss data for elements FA, FB, and applied forces LA, LB from
 1. Case numbers that satisfy the condition `(case number % 10 == Student ID % 10)` are processed.
 2. Forces are calculated for the elements, and the maximum resultant force is reported as:
    
-   \[
-   F_{\text{max}} = \sqrt{F_x^2 + F_y^2}
-   \]
+$$
+F_{\text{max}} = \sqrt{F_x^2 + F_y^2}
+$$
+
+In this formula:
+- \( F_{\text{max}} \) is the maximum force.
+- \( F_x \) and \( F_y \) are the forces acting on the object along the x and y axes, respectively.
    
    Example output:
    - **AC**: \(F_x = 12 \, kN\), \(F_y = 5 \, kN\)
