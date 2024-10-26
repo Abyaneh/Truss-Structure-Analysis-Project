@@ -43,12 +43,12 @@ F_{\text{max}} \quad : \quad \text{maximum force}
 $$
 
 $$
-F_{\text{x}}: force acting on the object along the x
+F_{\text{x}} \quad : \quad \text{force acting on the object along the x-axis}
 $$
 
 $$
-F_{\text{y}}: force acting on the object along the y
-$$   
+F_{\text{y}} \quad : \quad \text{force acting on the object along the y-axis}
+$$
 
    Example output:
    - **AC**: \(F_x = 12 \, kN\), \(F_y = 5 \, kN\)
