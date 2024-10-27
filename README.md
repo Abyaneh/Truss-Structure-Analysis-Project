@@ -1,4 +1,4 @@
-# Truss Structure Analysis Project
+# Truss Structure Analysis
 
 ## Table of Contents
 - [Introduction](#introduction)
